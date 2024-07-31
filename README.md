@@ -1,4 +1,4 @@
-## Project Title: Search Box
+## Search Box
 
 ### Project Description:
 
